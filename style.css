@@ -1,0 +1,26 @@
+
+#redSlider {
+    position: absolute;
+    top: 450px;
+    left: 50px;
+  }
+#greenSlider {
+    position: absolute;
+    top: 450px;
+    left: 220px;
+}
+#blueSlider {
+    position: absolute;
+    top: 450px;
+    left: 390px;
+}  
+#InvertSlider {
+    position: absolute;
+    top: 770px;
+    left: 220px;
+}  
+#HDTVSlider {
+    position: absolute;
+    top: 770px;
+    left: 390px;
+}
